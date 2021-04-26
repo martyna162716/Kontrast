@@ -38,13 +38,13 @@ public Kontrast () {
  y = 0;
  z = 0;
 
- if ( i>=0 && i<=1626 && j>=0 && j<=1080 ) 
+ if ( i>=0 && i<=469 && j>=0 && j<=768 )
    
  {
      
- x = 60; 
- y = 30; 
- z = -50; 
+ x = 60; //czerwony
+ y = 30; // zielony
+ z = -50; //niebieski
 
  
  }
