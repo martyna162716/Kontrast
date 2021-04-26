@@ -10,4 +10,5 @@ Na początku wczytuję klasę Kontrast, która pobiera zdjęcie nr 1 (nazwa: wid
 
 * zdjęcie po edycji:
 
-![widok1](https://user-images.githubusercontent.com/80594097/116009961-8b391080-a61c-11eb-80f1-ebf2a1ece936.jpg)
+![widok1](https://user-images.githubusercontent.com/80594097/116064850-b22c2c80-a686-11eb-8367-b0a42abdaa66.jpg)
+
